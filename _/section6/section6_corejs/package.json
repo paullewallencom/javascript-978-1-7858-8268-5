@@ -1,0 +1,15 @@
+{
+  "name": "section6_corejs",
+  "version": "1.0.0",
+  "description": "showcase core.js",
+  "main": "index.js",
+  "scripts": {
+    "build": "browserify lib/index.js > index.js --debug"
+  },
+  "author": "Joris Hermans",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^13.0.1",
+    "core-js": "^2.4.0"
+  }
+}

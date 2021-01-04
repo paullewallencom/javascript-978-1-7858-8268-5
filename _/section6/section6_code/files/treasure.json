@@ -1,0 +1,4 @@
+[
+    { "coordinates": {"x": 5, "y": 2}, "treasure": {"name":"treasure chest", "value":120} },
+    { "coordinates": {"x": -1, "y": 0}, "treasure": {"name":"green charm", "value":5} }
+]
